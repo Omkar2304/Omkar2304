@@ -32,11 +32,11 @@ Turning raw data into insights using Excel, Power BI, SQL, and Python.
 <h2>📬 Contact Me</h2>
 
 <p>
-📧 Email: <a href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=new">chafekaromkar23@gmail.com</a>
+📧 Email: <a href="chafekaromkar23@gmail.com">chafekaromkar23@gmail.com</a>
 </p>
 
 <p>
-<a href="www.linkedin.com/in/omkar-chafekar-282508285">
+<a href="https://www.linkedin.com/in/omkar-chafekar-282508285/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
