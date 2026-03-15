@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Omkar</h1>
 
-<!--
-**Omkar2304/Omkar2304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Aspiring Data Analyst | AI & Data Science Student</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Currently learning **Data Analytics & AI**
+- 📊 Working with **Excel, Power BI, SQL**
+- 💻 Interested in **Data Analytics & Machine Learning**
+- 📚 Currently learning **Python for Data Science**
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+<a href="https://linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+</a>
+</p>
+
+---
+
+## 🛠 Skills
+
+- Excel
+- Power BI
+- SQL
+- Python
+- Data Analysis
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Omkar2304&show_icons=true&theme=radical">
+</p>
