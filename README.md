@@ -20,10 +20,6 @@ Turning raw data into insights using Excel, Power BI, SQL, and Python.
 
 <h2>🛠 Skills & Tools</h2>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,github" />
-</p>
-
 <ul>
   <li>Excel</li>
   <li>Power BI</li>
@@ -36,15 +32,15 @@ Turning raw data into insights using Excel, Power BI, SQL, and Python.
 <h2>📬 Contact Me</h2>
 
 <p>
-📧 Email: <a href="">yourmail@gmail.com</a>
+📧 Email: <a href="chafekaromkar23@gmail.com">chafekaromkar23@gmail.com</a>
 </p>
 
 <p>
-<a href="https://linkedin.com/in/yourlinkedin">
+<a href="https://www.linkedin.com/in/omkar-chafekar-282508285%7D%7Blinkedin.com/in/omkar-chafekar">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/Omkar2304%7D%7Bgithub.com/Omkar2304">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
 </a>
 </p>
@@ -52,5 +48,5 @@ Turning raw data into insights using Excel, Power BI, SQL, and Python.
 <hr>
 
 <p align="center">
-⭐ From <a href="https://github.com/yourusername">yourusername</a>
+⭐ From <a href="https://github.com/Omkar2304%7D%7Bgithub.com/Omkar2304">Omkar</a>
 </p>
