@@ -32,7 +32,7 @@ Turning raw data into insights using Excel, Power BI, SQL, and Python.
 <h2>📬 Contact Me</h2>
 
 <p>
-📧 Email: <a href="chafekaromkar23@gmail.com">chafekaromkar23@gmail.com</a>
+📧 Email: <a href="mailto:chafekaromkar23@gmail.com">chafekaromkar23@gmail.com</a>
 </p>
 
 <p>
