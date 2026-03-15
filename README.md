@@ -32,15 +32,15 @@ Turning raw data into insights using Excel, Power BI, SQL, and Python.
 <h2>📬 Contact Me</h2>
 
 <p>
-📧 Email: <a href="chafekaromkar23@gmail.com">chafekaromkar23@gmail.com</a>
+📧 Email: <a href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=new">chafekaromkar23@gmail.com</a>
 </p>
 
 <p>
-<a href="https://www.linkedin.com/in/omkar-chafekar-282508285%7D%7Blinkedin.com/in/omkar-chafekar">
+<a href="www.linkedin.com/in/omkar-chafekar-282508285">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://github.com/Omkar2304%7D%7Bgithub.com/Omkar2304">
+<a href="https://github.com/Omkar2304">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
 </a>
 </p>
@@ -48,5 +48,5 @@ Turning raw data into insights using Excel, Power BI, SQL, and Python.
 <hr>
 
 <p align="center">
-⭐ From <a href="https://github.com/Omkar2304%7D%7Bgithub.com/Omkar2304">Omkar</a>
+⭐ From <a href="https://github.com/Omkar2304">Omkar</a>
 </p>
