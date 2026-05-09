@@ -72,9 +72,9 @@ SQL queries analyzing retail sales data and customer patterns.
 <h2 align="center">📬 Contact Me</h2>
 
 <p align="center">
-📧 Email:  
-<a href="mailto:chafekaromkar23@gmail.com">chafekaromkar23@gmail.com</a>
-</p>
+<a href="mailto:chafekaromkar04@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <p align="center">
 
